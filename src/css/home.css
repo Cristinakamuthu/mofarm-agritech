@@ -9,14 +9,14 @@
     background-color: #e6e6e6;
     height:55px;
     display: flex;
-    justify-content: flex-end;
     align-items: center;
-    gap: 100px;
+    gap: 150px;
     padding-right: 20px;
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
     font-size: larger;
     font-weight: 600;
+    justify-content: center;
 }
 .navtext{
     color:black;
