@@ -34,3 +34,8 @@
     outline: none;
 }
 
+.logo-image{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
