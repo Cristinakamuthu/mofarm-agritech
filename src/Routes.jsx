@@ -8,11 +8,6 @@ import App from "./App";
 const routes = [
     {
         path:"/",
-        element:<App />,
-        errorElement:<Errorpage />
-    },
-    {
-        path:"/Home",
         element:<Home />,
         errorElement:<Errorpage />
     },
